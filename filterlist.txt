@@ -110,3 +110,4 @@ From	contains	edifytech.us
 From	contains	diverseteam.com
 From	contains	amitksunplus@gmail.com
 From	contains	allegisitllc.com
+From  contains  roseint.com
