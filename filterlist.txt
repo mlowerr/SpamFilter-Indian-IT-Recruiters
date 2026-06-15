@@ -5,7 +5,6 @@ From	contains	accurogroup.com
 From	contains	aditiconsulting.com
 From	contains	adventglobal.com
 From	contains	agreeya.com
-From	contains	agreeya.com
 From	contains	aipioneer.ai
 From	contains	akaasa.com
 From	contains	akkodisgroup.com
@@ -20,7 +19,6 @@ From	contains	astekitsolutions.com
 From	contains	atos.net
 From	contains	avj-solutions.com
 From	contains	axelon.com
-From	contains	axelon.com
 From	contains	bhavyanikhil4@gmail.com
 From	contains	biitservices.com
 From	contains	birlasoft.com
@@ -33,12 +31,10 @@ From	contains	clifyx.com
 From	contains	cloudspacetek.com
 From	contains	clovity.com
 From	contains	codeforce.com
-From	contains	codeforce.com
 From	contains	coforge.com
 From	contains	cognitivemindsinc.com
 From	contains	cognizant.com
 From	contains	comprise.com
-From	contains	compunnel.com
 From	contains	compunnel.com
 From	contains	conq-tech.com
 From	contains	cpiusainc.com
@@ -69,7 +65,6 @@ From	contains	greattechglobal.com
 From	contains	gretisglobal.com
 From	contains	groksys.com
 From	contains	gttit.com
-From	contains	gttit.com
 From	contains	hcltech.com
 From	contains	hexaware.com
 From	contains	holistic-partners.com
@@ -79,10 +74,8 @@ From	contains	iappsdata.com
 From	contains	ibusinesssolution.com
 From	contains	inficaretech.com
 From	contains	infojiniconsulting.com
-From	contains	infojiniconsulting.com
 From	contains	Infosys.com
 From	contains	infotreeglobal.com
-From	contains	innovasolutions.com
 From	contains	innovasolutions.com
 From	contains	inspyrsolutions.com
 From	contains	insuraseek.com
@@ -140,7 +133,6 @@ From	contains	reqroute.com
 From	contains	revature.com
 From	contains	rgtalent.com
 From	contains	roseint.com
-From	contains	roseint.com
 From	contains	rulesiq.com
 From	contains	s3staffingusa.com
 From	contains	saanvi.us
@@ -160,7 +152,6 @@ From	contains	solutionit.com
 From	contains	spectraforce.com
 From	contains	squadsoftwares.com
 From	contains	srilakshmitech.net
-From	contains	stellentit.com
 From	contains	stellentit.com
 From	contains	stellentits.com
 From	contains	stemsolllc.com
@@ -202,7 +193,6 @@ From	contains	vieglobaltech.comagilesquadinc.com
 From	contains	virtusa.com
 From	contains	viva-it.com
 From	contains	votoconsulting.com
-From	contains	vsoftconsulting.com
 From	contains	vsoftconsulting.com
 From	contains	vui-inc.us
 From	contains	vuimails.com
