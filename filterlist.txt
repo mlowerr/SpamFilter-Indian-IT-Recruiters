@@ -203,4 +203,5 @@ From	contains	xoriant.com
 From	contains	yash.com
 From	contains	Zensar.com
 From	contains	zilliontechnologies.com
+From	contains	praval@oriensol.com
 Subject	contains	Direct Client
