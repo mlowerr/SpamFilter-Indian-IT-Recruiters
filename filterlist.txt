@@ -205,3 +205,4 @@ From	contains	Zensar.com
 From	contains	zilliontechnologies.com
 From	contains	praval@oriensol.com
 Subject	contains	Direct Client
+From	contains	tanishasystems.com
