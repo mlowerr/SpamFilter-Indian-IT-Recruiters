@@ -1,5 +1,6 @@
 Body	contains	Direct Client
 From	contains	aavalar.com
+From	contains	jscsolution.com
 From	contains	abyanthsolutions.com
 From	contains	accurogroup.com
 From	contains	aditiconsulting.com
