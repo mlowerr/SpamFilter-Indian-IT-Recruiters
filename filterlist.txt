@@ -1,6 +1,10 @@
+
 Body	contains	Direct Client
+From	contains	Genpact.com
+From	contains	Infosys.com
+From	contains	Tavant.com
+From	contains	Zensar.com
 From	contains	aavalar.com
-From	contains	jscsolution.com
 From	contains	abyanthsolutions.com
 From	contains	accurogroup.com
 From	contains	aditiconsulting.com
@@ -27,6 +31,7 @@ From	contains	bnassociates.net
 From	contains	broadgateinc.com
 From	contains	calancejobs.com
 From	contains	capitalstaffingsolutions.com
+From	contains	chelsoftusa.com
 From	contains	cleoconsult.com
 From	contains	clifyx.com
 From	contains	cloudspacetek.com
@@ -43,22 +48,22 @@ From	contains	croxconsulting.com
 From	contains	ctg.com
 From	contains	cybsearch.com
 From	contains	cyient.com
+From	contains	deltassi.com
 From	contains	diversant.com
 From	contains	diverselynx.com
 From	contains	diverseteam.com
+From	contains	e-solutionsinc.com
 From	contains	edifytech.us
 From	contains	eficensithub.com
 From	contains	ehub.global
 From	contains	encore-c.com
 From	contains	encryptitservice.com
-From	contains	e-solutionsinc.com
 From	contains	eteaminc.com
 From	contains	exarcainc.com
 From	contains	fhr-solutions.com
 From	contains	first-tek.com
 From	contains	fusiongridtek.com
 From	contains	futransolutions.com
-From	contains	Genpact.com
 From	contains	globalintellectuals.com
 From	contains	gowridhars@tranzeal.com
 From	contains	gp-technologies.com
@@ -75,7 +80,6 @@ From	contains	iappsdata.com
 From	contains	ibusinesssolution.com
 From	contains	inficaretech.com
 From	contains	infojiniconsulting.com
-From	contains	Infosys.com
 From	contains	infotreeglobal.com
 From	contains	innovasolutions.com
 From	contains	inspyrsolutions.com
@@ -86,10 +90,12 @@ From	contains	intimeinfy.com
 From	contains	irginc.net
 From	contains	itdatabuild.com
 From	contains	itechsolutions.com
+From	contains	itmcsystems.com
 From	contains	jennistech.com
+From	contains	jscsolution.com
 From	contains	kalyanmandapati4@gmail.com
-From	contains	kksoftwareassociates.com
 From	contains	kk-talents.com
+From	contains	kksoftwareassociates.com
 From	contains	kpg99.in
 From	contains	kpgtech.com
 From	contains	kyyba.com
@@ -121,6 +127,7 @@ From	contains	pcstalent.com
 From	contains	peopleintegra.com
 From	contains	peoplentech.com
 From	contains	populusgroup.com
+From	contains	praval@oriensol.com
 From	contains	prideveterans.com
 From	contains	prodapt.com
 From	contains	prospectinfosystem.com
@@ -168,9 +175,9 @@ From	contains	talentanytime.com
 From	contains	talentemail.com
 From	contains	talentgroups.com
 From	contains	tandymgroup.com
+From	contains	tanishasystems.com
 From	contains	tansoncorp.com
 From	contains	tataelxsi.com
-From	contains	Tavant.com
 From	contains	tcs.com
 From	contains	techmahindra.com
 From	contains	techproviders.com
@@ -202,11 +209,5 @@ From	contains	wipro.com
 From	contains	workcog.com
 From	contains	xoriant.com
 From	contains	yash.com
-From	contains	Zensar.com
 From	contains	zilliontechnologies.com
-From	contains	praval@oriensol.com
 Subject	contains	Direct Client
-From	contains	tanishasystems.com
-From	contains	deltassi.com
-From	contains	itmcsystems.com
-From	contains	chelsoftusa.com
