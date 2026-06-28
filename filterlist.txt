@@ -210,4 +210,5 @@ From	contains	workcog.com
 From	contains	xoriant.com
 From	contains	yash.com
 From	contains	zilliontechnologies.com
+From	contains	hanstaffing.com
 Subject	contains	Direct Client
