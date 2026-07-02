@@ -1,5 +1,6 @@
 
 Body	contains	Direct Client
+From	contains	cystemslogic.com
 From	contains	Genpact.com
 From	contains	Infosys.com
 From	contains	Tavant.com
