@@ -213,4 +213,14 @@ From	contains	xoriant.com
 From	contains	yash.com
 From	contains	zilliontechnologies.com
 From	contains	hanstaffing.com
+From	contains	interglobeit.com 
+From	contains	recruiter.cloudfuturetec@gmail.com
+From	contains	originhubsus.com
+From	contains	shaiknagul455@gmail.com
+From	contains	kunchamnikhil39@gmail.com
+From	contains	wiseq.net 
+From	contains	cognitivemindsinc.com
+From	contains	teja.benchsales12@gmail.com
+From	contains	clickaisolution.com
+From	contains	exarcainc.com
 Subject	contains	Direct Client
