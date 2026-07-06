@@ -3,6 +3,7 @@ Body	contains	Direct Client
 From	contains	cystemslogic.com
 From	contains	Genpact.com
 From	contains	Infosys.com
+From	contains	absoluting.com
 From	contains	Tavant.com
 From	contains	Zensar.com
 From	contains	aavalar.com
