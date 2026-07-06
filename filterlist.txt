@@ -1,12 +1,10 @@
-
 Body	contains	Direct Client
-From	contains	cystemslogic.com
 From	contains	Genpact.com
 From	contains	Infosys.com
-From	contains	absoluting.com
 From	contains	Tavant.com
 From	contains	Zensar.com
 From	contains	aavalar.com
+From	contains	absoluting.com
 From	contains	abyanthsolutions.com
 From	contains	accurogroup.com
 From	contains	aditiconsulting.com
@@ -35,6 +33,7 @@ From	contains	calancejobs.com
 From	contains	capitalstaffingsolutions.com
 From	contains	chelsoftusa.com
 From	contains	cleoconsult.com
+From	contains	clickaisolution.com
 From	contains	clifyx.com
 From	contains	cloudspacetek.com
 From	contains	clovity.com
@@ -50,6 +49,7 @@ From	contains	croxconsulting.com
 From	contains	ctg.com
 From	contains	cybsearch.com
 From	contains	cyient.com
+From	contains	cystemslogic.com
 From	contains	deltassi.com
 From	contains	diversant.com
 From	contains	diverselynx.com
@@ -73,6 +73,7 @@ From	contains	greattechglobal.com
 From	contains	gretisglobal.com
 From	contains	groksys.com
 From	contains	gttit.com
+From	contains	hanstaffing.com
 From	contains	hcltech.com
 From	contains	hexaware.com
 From	contains	holistic-partners.com
@@ -88,6 +89,7 @@ From	contains	inspyrsolutions.com
 From	contains	insuraseek.com
 From	contains	intellisofttech.com
 From	contains	intelliswift.com
+From	contains	interglobeit.com 
 From	contains	intimeinfy.com
 From	contains	irginc.net
 From	contains	itdatabuild.com
@@ -100,6 +102,7 @@ From	contains	kk-talents.com
 From	contains	kksoftwareassociates.com
 From	contains	kpg99.in
 From	contains	kpgtech.com
+From	contains	kunchamnikhil39@gmail.com
 From	contains	kyyba.com
 From	contains	lancesoft.com
 From	contains	laresit.comcentillion.com
@@ -123,6 +126,7 @@ From	contains	objectwin.com
 From	contains	okayainc.com
 From	contains	omizstaffing.com
 From	contains	oorwinmail.com
+From	contains	originhubsus.com
 From	contains	panzersolutions
 From	contains	panzersolutions.com
 From	contains	pcstalent.com
@@ -139,6 +143,7 @@ From	contains	psstechnologyinc.com
 From	contains	quadrantinc.com
 From	contains	quantumworldit.com
 From	contains	ramyinfotech.com
+From	contains	recruiter.cloudfuturetec@gmail.com
 From	contains	reqroute.com
 From	contains	revature.com
 From	contains	rgtalent.com
@@ -151,6 +156,7 @@ From	contains	sapphiresoftwaresolutions.com
 From	contains	saurabhampstek@gmail.com
 From	contains	scrum-usajobs@googlegroups.com
 From	contains	sendwithmailzzy.com
+From	contains	shaiknagul455@gmail.com
 From	contains	sibitalent.com
 From	contains	sierrasoln.com
 From	contains	siliconstartech.us
@@ -183,6 +189,7 @@ From	contains	tataelxsi.com
 From	contains	tcs.com
 From	contains	techmahindra.com
 From	contains	techproviders.com
+From	contains	teja.benchsales12@gmail.com
 From	contains	tekleaders.com
 From	contains	tekpartners.com
 From	contains	tekprosol.com
@@ -208,19 +215,9 @@ From	contains	vui-inc.us
 From	contains	vuimails.com
 From	contains	whizglobal.com
 From	contains	wipro.com
+From	contains	wiseq.net 
 From	contains	workcog.com
 From	contains	xoriant.com
 From	contains	yash.com
 From	contains	zilliontechnologies.com
-From	contains	hanstaffing.com
-From	contains	interglobeit.com 
-From	contains	recruiter.cloudfuturetec@gmail.com
-From	contains	originhubsus.com
-From	contains	shaiknagul455@gmail.com
-From	contains	kunchamnikhil39@gmail.com
-From	contains	wiseq.net 
-From	contains	cognitivemindsinc.com
-From	contains	teja.benchsales12@gmail.com
-From	contains	clickaisolution.com
-From	contains	exarcainc.com
 Subject	contains	Direct Client
