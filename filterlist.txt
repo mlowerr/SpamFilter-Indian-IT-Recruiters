@@ -203,6 +203,7 @@ From	contains	usdatabase.net
 From	contains	ust.com
 From	contains	ustechsolutions.com
 From	contains	ustechsolutionsinc.com
+From	contains	vaspiretech.com
 From	contains	vdart.com
 From	contains	veritasit.com
 From	contains	vertexg.com
