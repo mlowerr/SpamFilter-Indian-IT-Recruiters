@@ -3,7 +3,12 @@ From	contains	Genpact.com
 From	contains	Infosys.com
 From	contains	Tavant.com
 From	contains	Zensar.com
-From	contains  maxeleven.com
+From	contains	maxeleven.com
+From	contains	clevanoollc.com
+From	contains	vipensama@gmail.com
+From	contains	sourabh@skillfyr.com
+From	contains	skillfyr.com
+From	contains	kaygen.com
 From	contains	aavalar.com
 From	contains	absoluting.com
 From	contains	abyanthsolutions.com
