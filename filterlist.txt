@@ -4,6 +4,7 @@ From	contains	Infosys.com
 From	contains	Tavant.com
 From	contains	Zensar.com
 From	contains	maxeleven.com
+From	contains	conov8.com
 From	contains	clevanoollc.com
 From	contains	vipensama@gmail.com
 From	contains	sourabh@skillfyr.com
