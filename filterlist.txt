@@ -1,16 +1,4 @@
 Body	contains	Direct Client
-From	contains	Genpact.com
-From	contains	Infosys.com
-From	contains	Tavant.com
-From	contains	Zensar.com
-From	contains	maxeleven.com
-From	contains	conov8.com
-From	contains	varite.com
-From	contains	clevanoollc.com
-From	contains	vipensama@gmail.com
-From	contains	sourabh@skillfyr.com
-From	contains	skillfyr.com
-From	contains	kaygen.com
 From	contains	aavalar.com
 From	contains	absoluting.com
 From	contains	abyanthsolutions.com
@@ -41,6 +29,7 @@ From	contains	calancejobs.com
 From	contains	capitalstaffingsolutions.com
 From	contains	chelsoftusa.com
 From	contains	cleoconsult.com
+From	contains	clevanoollc.com
 From	contains	clickaisolution.com
 From	contains	clifyx.com
 From	contains	cloudspacetek.com
@@ -51,6 +40,7 @@ From	contains	cognitivemindsinc.com
 From	contains	cognizant.com
 From	contains	comprise.com
 From	contains	compunnel.com
+From	contains	conov8.com
 From	contains	conq-tech.com
 From	contains	cpiusainc.com
 From	contains	croxconsulting.com
@@ -74,6 +64,7 @@ From	contains	fhr-solutions.com
 From	contains	first-tek.com
 From	contains	fusiongridtek.com
 From	contains	futransolutions.com
+From	contains	genpact.com
 From	contains	globalintellectuals.com
 From	contains	gowridhars@tranzeal.com
 From	contains	gp-technologies.com
@@ -91,6 +82,7 @@ From	contains	iappsdata.com
 From	contains	ibusinesssolution.com
 From	contains	inficaretech.com
 From	contains	infojiniconsulting.com
+From	contains	infosys.com
 From	contains	infotreeglobal.com
 From	contains	innovasolutions.com
 From	contains	inspyrsolutions.com
@@ -106,6 +98,7 @@ From	contains	itmcsystems.com
 From	contains	jennistech.com
 From	contains	jscsolution.com
 From	contains	kalyanmandapati4@gmail.com
+From	contains	kaygen.com
 From	contains	kk-talents.com
 From	contains	kksoftwareassociates.com
 From	contains	kpg99.in
@@ -121,6 +114,7 @@ From	contains	macrosoftinc.com
 From	contains	marcalbert.panzer1@gmail.com
 From	contains	marcalbert.panzersolutions@gmail.com
 From	contains	marlabs.com
+From	contains	maxeleven.com
 From	contains	meridiantechnologies.net
 From	contains	miraclesoft.com
 From	contains	mobiusenginecorp.com
@@ -170,9 +164,11 @@ From	contains	sierrasoln.com
 From	contains	siliconstartech.us
 From	contains	siriinfo.com
 From	contains	sirisoftsolutions.com
+From	contains	skillfyr.com
 From	contains	softpath.net
 From	contains	softsages.com
 From	contains	solutionit.com
+From	contains	sourabh@skillfyr.com
 From	contains	spectraforce.com
 From	contains	squadsoftwares.com
 From	contains	srilakshmitech.net
@@ -194,6 +190,7 @@ From	contains	tandymgroup.com
 From	contains	tanishasystems.com
 From	contains	tansoncorp.com
 From	contains	tataelxsi.com
+From	contains	tavant.com
 From	contains	tcs.com
 From	contains	techmahindra.com
 From	contains	techproviders.com
@@ -211,11 +208,13 @@ From	contains	usdatabase.net
 From	contains	ust.com
 From	contains	ustechsolutions.com
 From	contains	ustechsolutionsinc.com
+From	contains	varite.com
 From	contains	vaspiretech.com
 From	contains	vdart.com
 From	contains	veritasit.com
 From	contains	vertexg.com
 From	contains	vieglobaltech.comagilesquadinc.com
+From	contains	vipensama@gmail.com
 From	contains	virtusa.com
 From	contains	viva-it.com
 From	contains	votoconsulting.com
@@ -228,5 +227,6 @@ From	contains	wiseq.net
 From	contains	workcog.com
 From	contains	xoriant.com
 From	contains	yash.com
+From	contains	zensar.com
 From	contains	zilliontechnologies.com
 Subject	contains	Direct Client
