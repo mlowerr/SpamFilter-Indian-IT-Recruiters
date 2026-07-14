@@ -228,6 +228,7 @@ From	contains	wiseq.net
 From	contains	workcog.com
 From	contains	xoriant.com
 From	contains	yash.com
+From	contains	zealhire.com
 From	contains	zensar.com
 From	contains	zilliontechnologies.com
 Subject	contains	Direct Client
