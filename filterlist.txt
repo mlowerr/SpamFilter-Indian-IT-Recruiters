@@ -1,4 +1,15 @@
 Body	contains	Direct Client
+From	contains	nstargroupinc.com
+From	contains	northstarworks51@gmail.com
+From	contains	hanstaffing.com
+From	contains	pacerstaffing.com
+From	contains	rohit.galaxy0786@gmail.com
+From	contains	rkoduri026@gmail.com
+From	contains	scrum-usajobs@googlegroups.com
+From	contains	synchronycorp.com
+From	contains	zettalogix.com
+From	contains	cynetsystems.com
+From	contains	hexacorp.com
 From	contains	aavalar.com
 From	contains	absoluting.com
 From	contains	abyanthsolutions.com
