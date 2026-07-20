@@ -240,5 +240,5 @@ From	contains	zealhire.com
 From	contains	zensar.com
 From	contains	zettalogix.com
 From	contains	zilliontechnologies.com
-From    contains        stiorg.com
+From	contains	stiorg.com
 Subject	contains	Direct Client
