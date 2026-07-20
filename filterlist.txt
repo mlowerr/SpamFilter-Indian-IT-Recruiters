@@ -1,15 +1,4 @@
 Body	contains	Direct Client
-From	contains	nstargroupinc.com
-From	contains	northstarworks51@gmail.com
-From	contains	hanstaffing.com
-From	contains	pacerstaffing.com
-From	contains	rohit.galaxy0786@gmail.com
-From	contains	rkoduri026@gmail.com
-From	contains	scrum-usajobs@googlegroups.com
-From	contains	synchronycorp.com
-From	contains	zettalogix.com
-From	contains	cynetsystems.com
-From	contains	hexacorp.com
 From	contains	aavalar.com
 From	contains	absoluting.com
 From	contains	abyanthsolutions.com
@@ -58,6 +47,7 @@ From	contains	croxconsulting.com
 From	contains	ctg.com
 From	contains	cybsearch.com
 From	contains	cyient.com
+From	contains	cynetsystems.com
 From	contains	cystemslogic.com
 From	contains	deltassi.com
 From	contains	diversant.com
@@ -85,6 +75,7 @@ From	contains	groksys.com
 From	contains	gttit.com
 From	contains	hanstaffing.com
 From	contains	hcltech.com
+From	contains	hexacorp.com
 From	contains	hexaware.com
 From	contains	holistic-partners.com
 From	contains	htcinc.com
@@ -135,12 +126,15 @@ From	contains	msrtechnologies.com
 From	contains	navitassols.com
 From	contains	net2source.com
 From	contains	nityo.co
+From	contains	northstarworks51@gmail.com
 From	contains	novalink-solutions.com
+From	contains	nstargroupinc.com
 From	contains	objectwin.com
 From	contains	okayainc.com
 From	contains	omizstaffing.com
 From	contains	oorwinmail.com
 From	contains	originhubsus.com
+From	contains	pacerstaffing.com
 From	contains	panzersolutions
 From	contains	panzersolutions.com
 From	contains	pcstalent.com
@@ -161,6 +155,8 @@ From	contains	recruiter.cloudfuturetec@gmail.com
 From	contains	reqroute.com
 From	contains	revature.com
 From	contains	rgtalent.com
+From	contains	rkoduri026@gmail.com
+From	contains	rohit.galaxy0786@gmail.com
 From	contains	roseint.com
 From	contains	rulesiq.com
 From	contains	s3staffingusa.com
@@ -191,6 +187,7 @@ From	contains	steneral.com
 From	contains	strategicstff.com
 From	contains	syfter.com
 From	contains	symphonycorp.com
+From	contains	synchronycorp.com
 From	contains	synechron.com
 From	contains	systemart.com
 From	contains	systemoneservices.com
@@ -241,5 +238,7 @@ From	contains	xoriant.com
 From	contains	yash.com
 From	contains	zealhire.com
 From	contains	zensar.com
+From	contains	zettalogix.com
 From	contains	zilliontechnologies.com
+From    contains        stiorg.com
 Subject	contains	Direct Client
