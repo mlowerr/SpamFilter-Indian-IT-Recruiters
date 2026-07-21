@@ -1,4 +1,6 @@
 Body	contains	Direct Client
+From	contains	truecodesol.com
+From	contains	stiorg.com
 From	contains	aavalar.com
 From	contains	absoluting.com
 From	contains	abyanthsolutions.com
