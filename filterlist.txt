@@ -1,4 +1,5 @@
 Body	contains	Direct Client
+From	contains	tekshapers.com
 From	contains	truecodesol.com
 From	contains	stiorg.com
 From	contains	aavalar.com
