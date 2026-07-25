@@ -1,4 +1,7 @@
 Body	contains	Direct Client
+From	contains	hirekeyz.com
+From	contains	intone.com
+From	contains	nityo.com
 From	contains	tekshapers.com
 From	contains	truecodesol.com
 From	contains	stiorg.com
