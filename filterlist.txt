@@ -1,5 +1,6 @@
 Body	contains	Direct Client
 From	contains	hirekeyz.com
+From	contains	krgtech.com
 From	contains	valourusa.com
 From	contains	intone.com
 From	contains	nityo.com
