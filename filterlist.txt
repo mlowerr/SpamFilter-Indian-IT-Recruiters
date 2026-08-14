@@ -1,5 +1,8 @@
 Body	contains	Direct Client
 From	contains	clevanoollc.com
+From	contains	aitacs.com
+From	contains	technocraftsol.com
+From	contains	clevanoollc.com
 From	contains	testingxperts.com
 From	contains	mindlance.com
 From	contains	genome.com
