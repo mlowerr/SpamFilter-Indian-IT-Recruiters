@@ -1,4 +1,9 @@
 Body	contains	Direct Client
+From	contains	clevanoollc.com
+From	contains	testingxperts.com
+From	contains	mindlance.com
+From	contains	genome.com
+From	contains	shirotechnologies.com
 From	contains	hirekeyz.com
 From	contains	krgtech.com
 From	contains	valourusa.com
