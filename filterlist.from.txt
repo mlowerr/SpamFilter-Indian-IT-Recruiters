@@ -1,20 +1,3 @@
-Body	contains	Direct Client
-From	contains	clevanoollc.com
-From	contains	aitacs.com
-From	contains	technocraftsol.com
-From	contains	clevanoollc.com
-From	contains	testingxperts.com
-From	contains	mindlance.com
-From	contains	genome.com
-From	contains	shirotechnologies.com
-From	contains	hirekeyz.com
-From	contains	krgtech.com
-From	contains	valourusa.com
-From	contains	intone.com
-From	contains	nityo.com
-From	contains	tekshapers.com
-From	contains	truecodesol.com
-From	contains	stiorg.com
 From	contains	aavalar.com
 From	contains	absoluting.com
 From	contains	abyanthsolutions.com
@@ -23,6 +6,7 @@ From	contains	aditiconsulting.com
 From	contains	adventglobal.com
 From	contains	agreeya.com
 From	contains	aipioneer.ai
+From	contains	aitacs.com
 From	contains	akaasa.com
 From	contains	akkodisgroup.com
 From	contains	alipro.com
@@ -81,6 +65,7 @@ From	contains	fhr-solutions.com
 From	contains	first-tek.com
 From	contains	fusiongridtek.com
 From	contains	futransolutions.com
+From	contains	genome.com
 From	contains	genpact.com
 From	contains	globalintellectuals.com
 From	contains	gowridhars@tranzeal.com
@@ -93,6 +78,7 @@ From	contains	hanstaffing.com
 From	contains	hcltech.com
 From	contains	hexacorp.com
 From	contains	hexaware.com
+From	contains	hirekeyz.com
 From	contains	holistic-partners.com
 From	contains	htcinc.com
 From	contains	i3infotek.com
@@ -109,6 +95,7 @@ From	contains	intellisofttech.com
 From	contains	intelliswift.com
 From	contains	interglobeit.com 
 From	contains	intimeinfy.com
+From	contains	intone.com
 From	contains	irginc.net
 From	contains	itdatabuild.com
 From	contains	itechsolutions.com
@@ -121,6 +108,7 @@ From	contains	kk-talents.com
 From	contains	kksoftwareassociates.com
 From	contains	kpg99.in
 From	contains	kpgtech.com
+From	contains	krgtech.com
 From	contains	kunchamnikhil39@gmail.com
 From	contains	kyyba.com
 From	contains	lancesoft.com
@@ -135,6 +123,7 @@ From	contains	marlabs.com
 From	contains	maxeleven.com
 From	contains	meridiantechnologies.net
 From	contains	metrixit.com
+From	contains	mindlance.com
 From	contains	miraclesoft.com
 From	contains	mobiusenginecorp.com
 From	contains	mphasis.com
@@ -142,6 +131,7 @@ From	contains	msrtechnologies.com
 From	contains	navitassols.com
 From	contains	net2source.com
 From	contains	nityo.co
+From	contains	nityo.com
 From	contains	northstarworks51@gmail.com
 From	contains	novalink-solutions.com
 From	contains	nstargroupinc.com
@@ -183,6 +173,7 @@ From	contains	saurabhampstek@gmail.com
 From	contains	scrum-usajobs@googlegroups.com
 From	contains	sendwithmailzzy.com
 From	contains	shaiknagul455@gmail.com
+From	contains	shirotechnologies.com
 From	contains	sibitalent.com
 From	contains	sierrasoln.com
 From	contains	siliconstartech.us
@@ -200,6 +191,7 @@ From	contains	stellentit.com
 From	contains	stellentits.com
 From	contains	stemsolllc.com
 From	contains	steneral.com
+From	contains	stiorg.com
 From	contains	strategicstff.com
 From	contains	syfter.com
 From	contains	symphonycorp.com
@@ -218,21 +210,26 @@ From	contains	tataelxsi.com
 From	contains	tavant.com
 From	contains	tcs.com
 From	contains	techmahindra.com
+From	contains	technocraftsol.com
 From	contains	techproviders.com
 From	contains	teja.benchsales12@gmail.com
 From	contains	tekleaders.com
 From	contains	tekpartners.com
 From	contains	tekprosol.com
+From	contains	tekshapers.com
 From	contains	tekwissen.com
 From	contains	tekyantra.com
+From	contains	testingxperts.com
 From	contains	thoughtcircuits.com
 From	contains	trakstar.com
+From	contains	truecodesol.com
 From	contains	uniquelogicsol.com
 From	contains	uniteditinc.com
 From	contains	usdatabase.net
 From	contains	ust.com
 From	contains	ustechsolutions.com
 From	contains	ustechsolutionsinc.com
+From	contains	valourusa.com
 From	contains	varite.com
 From	contains	vaspiretech.com
 From	contains	vdart.com
@@ -256,5 +253,3 @@ From	contains	zealhire.com
 From	contains	zensar.com
 From	contains	zettalogix.com
 From	contains	zilliontechnologies.com
-From	contains	stiorg.com
-Subject	contains	Direct Client
