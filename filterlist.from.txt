@@ -54,6 +54,7 @@ From	contains	diversant.com
 From	contains	diverselynx.com
 From	contains	diverseteam.com
 From	contains	e-solutionsinc.com
+From	contains	edgeglobal.net
 From	contains	edifytech.us
 From	contains	eficensithub.com
 From	contains	ehub.global
