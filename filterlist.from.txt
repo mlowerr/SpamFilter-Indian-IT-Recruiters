@@ -42,6 +42,7 @@ From	contains	comprise.com
 From	contains	compunnel.com
 From	contains	conov8.com
 From	contains	conq-tech.com
+From	contains	corsogen.com
 From	contains	cpiusainc.com
 From	contains	croxconsulting.com
 From	contains	ctg.com
