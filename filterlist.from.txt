@@ -1,3 +1,4 @@
+From	contains	logicsoftusa.com
 From	contains	coolsofttech.com
 From	contains	successpartnersllc.com
 From	contains	sunrisesys.com
