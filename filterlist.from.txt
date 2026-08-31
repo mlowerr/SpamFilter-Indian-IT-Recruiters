@@ -1,3 +1,5 @@
+From	contains	godigitive.com
+From	contains	coresourceglobal.com
 From	contains	logicsoftusa.com
 From	contains	coolsofttech.com
 From	contains	successpartnersllc.com
