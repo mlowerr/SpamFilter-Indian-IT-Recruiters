@@ -1,13 +1,3 @@
-From	contains	godigitive.com
-From	contains	coresourceglobal.com
-From	contains	logicsoftusa.com
-From	contains	coolsofttech.com
-From	contains	successpartnersllc.com
-From	contains	sunrisesys.com
-From	contains	indsoft.com
-From	contains	askconsulting.com
-From	contains	lorventech.com
-From	contains	echdigitalcorp.com
 From	contains	aavalar.com
 From	contains	absoluting.com
 From	contains	abyanthsolutions.com
@@ -26,6 +16,7 @@ From	contains	amaze-systems.com
 From	contains	amitksunplus@gmail.com
 From	contains	ampcus.com
 From	contains	apetan.com
+From	contains	askconsulting.com
 From	contains	astekitsolutions.com
 From	contains	atos.net
 From	contains	avj-solutions.com
@@ -52,6 +43,8 @@ From	contains	comprise.com
 From	contains	compunnel.com
 From	contains	conov8.com
 From	contains	conq-tech.com
+From	contains	coolsofttech.com
+From	contains	coresourceglobal.com
 From	contains	corsogen.com
 From	contains	cpiusainc.com
 From	contains	croxconsulting.com
@@ -66,6 +59,7 @@ From	contains	diversant.com
 From	contains	diverselynx.com
 From	contains	diverseteam.com
 From	contains	e-solutionsinc.com
+From	contains	echdigitalcorp.com
 From	contains	edgeglobal.net
 From	contains	edifytech.us
 From	contains	eficensithub.com
@@ -81,6 +75,7 @@ From	contains	futransolutions.com
 From	contains	genome.com
 From	contains	genpact.com
 From	contains	globalintellectuals.com
+From	contains	godigitive.com
 From	contains	gowridhars@tranzeal.com
 From	contains	gp-technologies.com
 From	contains	greattechglobal.com
@@ -97,6 +92,7 @@ From	contains	htcinc.com
 From	contains	i3infotek.com
 From	contains	iappsdata.com
 From	contains	ibusinesssolution.com
+From	contains	indsoft.com
 From	contains	inficaretech.com
 From	contains	infojiniconsulting.com
 From	contains	infosys.com
@@ -127,6 +123,8 @@ From	contains	kyyba.com
 From	contains	lancesoft.com
 From	contains	laresit.comcentillion.com
 From	contains	launchconsulting.om
+From	contains	logicsoftusa.com
+From	contains	lorventech.com
 From	contains	ltimindtree.com
 From	contains	ltts.com
 From	contains	macrosoftinc.com
@@ -206,6 +204,8 @@ From	contains	stemsolllc.com
 From	contains	steneral.com
 From	contains	stiorg.com
 From	contains	strategicstff.com
+From	contains	successpartnersllc.com
+From	contains	sunrisesys.com
 From	contains	syfter.com
 From	contains	symphonycorp.com
 From	contains	synchronycorp.com
