@@ -1,3 +1,5 @@
+From	contains	edgelobal.net
+From	contains	varite.com
 From	contains	conchtech.com
 From	contains	tekfortune.com
 From	contains	sritechsolutions.com
