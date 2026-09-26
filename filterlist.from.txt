@@ -1,21 +1,4 @@
 
-From	contains	eclaro.com
-From	contains	donatotech.net
-From	contains	hirevistaesolutions.com
-From	contains	olympiasoftwaresolutions.com
-From	contains	edgelobal.net
-From	contains	varite.com
-From	contains	conchtech.com
-From	contains	tekfortune.com
-From	contains	sritechsolutions.com
-From	contains	infopeoplecorp.com>
-From	contains	godigitive.com>
-From	contains	lorventech.com
-From	contains	alourusa.com
-From	contains	infojiniconsulting.com
-From	contains	iconma.com
-From	contains	lorventech.com
-From	contains	exarcainc.com
 From	contains	aavalar.com
 From	contains	absoluting.com
 From	contains	abyanthsolutions.com
@@ -30,6 +13,7 @@ From	contains	akkodisgroup.com
 From	contains	alipro.com
 From	contains	allegisitllc.com
 From	contains	alltechconsultinginc.com
+From	contains	alourusa.com
 From	contains	amaze-systems.com
 From	contains	amitksunplus@gmail.com
 From	contains	ampcus.com
@@ -59,6 +43,7 @@ From	contains	cognitivemindsinc.com
 From	contains	cognizant.com
 From	contains	comprise.com
 From	contains	compunnel.com
+From	contains	conchtech.com
 From	contains	conov8.com
 From	contains	conq-tech.com
 From	contains	coolsofttech.com
@@ -76,9 +61,12 @@ From	contains	deltassi.com
 From	contains	diversant.com
 From	contains	diverselynx.com
 From	contains	diverseteam.com
+From	contains	donatotech.net
 From	contains	e-solutionsinc.com
 From	contains	echdigitalcorp.com
+From	contains	eclaro.com
 From	contains	edgeglobal.net
+From	contains	edgelobal.net
 From	contains	edifytech.us
 From	contains	eficensithub.com
 From	contains	ehub.global
@@ -94,6 +82,7 @@ From	contains	genome.com
 From	contains	genpact.com
 From	contains	globalintellectuals.com
 From	contains	godigitive.com
+From	contains	godigitive.com>
 From	contains	gowridhars@tranzeal.com
 From	contains	gp-technologies.com
 From	contains	greattechglobal.com
@@ -105,14 +94,17 @@ From	contains	hcltech.com
 From	contains	hexacorp.com
 From	contains	hexaware.com
 From	contains	hirekeyz.com
+From	contains	hirevistaesolutions.com
 From	contains	holistic-partners.com
 From	contains	htcinc.com
 From	contains	i3infotek.com
 From	contains	iappsdata.com
 From	contains	ibusinesssolution.com
+From	contains	iconma.com
 From	contains	indsoft.com
 From	contains	inficaretech.com
 From	contains	infojiniconsulting.com
+From	contains	infopeoplecorp.com>
 From	contains	infosys.com
 From	contains	infotreeglobal.com
 From	contains	innovasolutions.com
@@ -166,6 +158,7 @@ From	contains	novalink-solutions.com
 From	contains	nstargroupinc.com
 From	contains	objectwin.com
 From	contains	okayainc.com
+From	contains	olympiasoftwaresolutions.com
 From	contains	omizstaffing.com
 From	contains	oorwinmail.com
 From	contains	originhubsus.com
@@ -216,6 +209,7 @@ From	contains	sourabh@skillfyr.com
 From	contains	spectraforce.com
 From	contains	squadsoftwares.com
 From	contains	srilakshmitech.net
+From	contains	sritechsolutions.com
 From	contains	stellentit.com
 From	contains	stellentits.com
 From	contains	stemsolllc.com
@@ -244,6 +238,7 @@ From	contains	techmahindra.com
 From	contains	technocraftsol.com
 From	contains	techproviders.com
 From	contains	teja.benchsales12@gmail.com
+From	contains	tekfortune.com
 From	contains	tekleaders.com
 From	contains	tekpartners.com
 From	contains	tekprosol.com
