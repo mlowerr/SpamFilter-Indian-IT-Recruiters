@@ -1,0 +1,33 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+
+repo_root=$(git rev-parse --show-toplevel)
+tmp_dir=$(mktemp -d "${TMPDIR:-/tmp}/filterlist-pre-commit.XXXXXX")
+trap 'rm -rf "$tmp_dir"' EXIT
+
+while IFS= read -r -d '' filterlist; do
+    staged_file="$tmp_dir/staged"
+    sorted_file="$tmp_dir/sorted"
+
+    git show ":$filterlist" > "$staged_file"
+    LC_ALL=C sort -u "$staged_file" > "$sorted_file"
+
+    if cmp -s "$staged_file" "$sorted_file"; then
+        continue
+    fi
+
+    # Keep unstaged edits intact. Only update the working-tree copy when it
+    # still matches the content that was staged when this hook began.
+    if [[ -f "$repo_root/$filterlist" ]] && cmp -s "$repo_root/$filterlist" "$staged_file"; then
+        cat "$sorted_file" > "$repo_root/$filterlist"
+    fi
+
+    mode=$(git ls-files --stage -- "$filterlist" | awk '$3 == 0 { print $1; exit }')
+    blob=$(git hash-object -w -- "$sorted_file")
+    git update-index --cacheinfo "$mode,$blob,$filterlist"
+
+    printf 'pre-commit: sorted and deduplicated %s\n' "$filterlist"
+done < <(
+    git diff --cached --name-only --diff-filter=AM -z -- 'filterlist.*.txt'
+)
