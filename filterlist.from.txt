@@ -1,3 +1,6 @@
+From	contains	nasscomm.com
+From	contains	nasscomm.ai
+From	contains	dexpertsinc.com
 From	contains	maidentechnologies.com
 From	contains	ateeca.com
 From	contains	aavalar.com
