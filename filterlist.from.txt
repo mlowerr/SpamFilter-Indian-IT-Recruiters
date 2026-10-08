@@ -1,3 +1,4 @@
+From	contains	vipanyglobal.com
 From	contains	nasscomm.com
 From	contains	nasscomm.ai
 From	contains	dexpertsinc.com
