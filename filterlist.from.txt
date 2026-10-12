@@ -1,288 +1,288 @@
-From	contains	i2usystems.com
-From	contains	vipanyglobal.com
-From	contains	nasscomm.com
-From	contains	nasscomm.ai
-From	contains	dexpertsinc.com
-From	contains	maidentechnologies.com
-From	contains	ateeca.com
-From	contains	aavalar.com
-From	contains	absoluting.com
-From	contains	abyanthsolutions.com
-From	contains	accurogroup.com
-From	contains	aditiconsulting.com
-From	contains	adventglobal.com
-From	contains	agreeya.com
-From	contains	aipioneer.ai
-From	contains	aitacs.com
-From	contains	akaasa.com
-From	contains	akkodisgroup.com
-From	contains	alipro.com
-From	contains	allegisitllc.com
-From	contains	alltechconsultinginc.com
-From	contains	alourusa.com
-From	contains	amaze-systems.com
-From	contains	amitksunplus@gmail.com
-From	contains	ampcus.com
-From	contains	apetan.com
-From	contains	askconsulting.com
-From	contains	astekitsolutions.com
-From	contains	atos.net
-From	contains	avj-solutions.com
-From	contains	axelon.com
-From	contains	bhavyanikhil4@gmail.com
-From	contains	biitservices.com
-From	contains	birlasoft.com
-From	contains	blackrockgrps.com
-From	contains	bnassociates.net
-From	contains	broadgateinc.com
-From	contains	calancejobs.com
-From	contains	capitalstaffingsolutions.com
-From	contains	chelsoftusa.com
-From	contains	cleoconsult.com
-From	contains	clevanoollc.com
-From	contains	clickaisolution.com
-From	contains	clifyx.com
-From	contains	cloudspacetek.com
-From	contains	clovity.com
-From	contains	codeforce.com
-From	contains	coforge.com
-From	contains	cognitivemindsinc.com
-From	contains	cognizant.com
-From	contains	comprise.com
-From	contains	compunnel.com
-From	contains	conchtech.com
-From	contains	conov8.com
-From	contains	conq-tech.com
-From	contains	coolsofttech.com
-From	contains	coresourceglobal.com
-From	contains	corsogen.com
-From	contains	cpiusainc.com
-From	contains	croxconsulting.com
-From	contains	ctg.com
-From	contains	cyberobotix.com
-From	contains	cybsearch.com
-From	contains	cyient.com
-From	contains	cynetsystems.com
-From	contains	cystemslogic.com
-From	contains	deltassi.com
-From	contains	diversant.com
-From	contains	diverselynx.com
-From	contains	diverseteam.com
-From	contains	donatotech.net
-From	contains	e-solutionsinc.com
-From	contains	echdigitalcorp.com
-From	contains	eclaro.com
-From	contains	edgeglobal.net
-From	contains	edgelobal.net
-From	contains	edifytech.us
-From	contains	eficensithub.com
-From	contains	ehub.global
-From	contains	encore-c.com
-From	contains	encryptitservice.com
-From	contains	eteaminc.com
-From	contains	exarcainc.com
-From	contains	fhr-solutions.com
-From	contains	first-tek.com
-From	contains	fusiongridtek.com
-From	contains	futransolutions.com
-From	contains	genome.com
-From	contains	genpact.com
-From	contains	globalintellectuals.com
-From	contains	godigitive.com
-From	contains	godigitive.com>
-From	contains	gowridhars@tranzeal.com
-From	contains	gp-technologies.com
-From	contains	greattechglobal.com
-From	contains	gretisglobal.com
-From	contains	groksys.com
-From	contains	gttit.com
-From	contains	hanstaffing.com
-From	contains	hcltech.com
-From	contains	hexacorp.com
-From	contains	hexaware.com
-From	contains	hirekeyz.com
-From	contains	hirevistaesolutions.com
-From	contains	holistic-partners.com
-From	contains	htcinc.com
-From	contains	i3infotek.com
-From	contains	iappsdata.com
-From	contains	ibusinesssolution.com
-From	contains	iconma.com
-From	contains	indsoft.com
-From	contains	inficaretech.com
-From	contains	infojiniconsulting.com
-From	contains	infopeoplecorp.com>
-From	contains	infosys.com
-From	contains	infotreeglobal.com
-From	contains	innovasolutions.com
-From	contains	inspyrsolutions.com
-From	contains	insuraseek.com
-From	contains	intellisofttech.com
-From	contains	intelliswift.com
-From	contains	interglobeit.com 
-From	contains	intimeinfy.com
-From	contains	intone.com
-From	contains	irginc.net
-From	contains	itdatabuild.com
-From	contains	itechsolutions.com
-From	contains	itmcsystems.com
-From	contains	jennistech.com
-From	contains	jscsolution.com
-From	contains	kalyanmandapati4@gmail.com
-From	contains	kaygen.com
-From	contains	kk-talents.com
-From	contains	kksoftwareassociates.com
-From	contains	kpg99.in
-From	contains	kpgtech.com
-From	contains	krgtech.com
-From	contains	kunchamnikhil39@gmail.com
-From	contains	kyyba.com
-From	contains	lancesoft.com
-From	contains	laresit.comcentillion.com
-From	contains	launchconsulting.om
-From	contains	logicsoftusa.com
-From	contains	lorventech.com
-From	contains	ltimindtree.com
-From	contains	ltts.com
-From	contains	macrosoftinc.com
-From	contains	marcalbert.panzer1@gmail.com
-From	contains	marcalbert.panzersolutions@gmail.com
-From	contains	marlabs.com
-From	contains	maxeleven.com
-From	contains	meridiantechnologies.net
-From	contains	metrixit.com
-From	contains	mindlance.com
-From	contains	miraclesoft.com
-From	contains	mobiusenginecorp.com
-From	contains	mphasis.com
-From	contains	msrtechnologies.com
-From	contains	navitassols.com
-From	contains	net2source.com
-From	contains	nityo.co
-From	contains	nityo.com
-From	contains	northstarworks51@gmail.com
-From	contains	novalink-solutions.com
-From	contains	nstargroupinc.com
-From	contains	objectwin.com
-From	contains	okayainc.com
-From	contains	olympiasoftwaresolutions.com
-From	contains	omizstaffing.com
-From	contains	oorwinmail.com
-From	contains	originhubsus.com
-From	contains	pacerstaffing.com
-From	contains	panzersolutions
-From	contains	panzersolutions.com
-From	contains	pcstalent.com
-From	contains	peopleintegra.com
-From	contains	peoplentech.com
-From	contains	populusgroup.com
-From	contains	praval@oriensol.com
-From	contains	prideveterans.com
-From	contains	prodapt.com
-From	contains	prospectinfosystem.com
-From	contains	prowesssoft.com
-From	contains	psrtek.com
-From	contains	psstechnologyinc.com
-From	contains	quadrantinc.com
-From	contains	quantumworldit.com
-From	contains	ramyinfotech.com
-From	contains	recruiter.cloudfuturetec@gmail.com
-From	contains	reqroute.com
-From	contains	revature.com
-From	contains	rgtalent.com
-From	contains	rkoduri026@gmail.com
-From	contains	rohit.galaxy0786@gmail.com
-From	contains	roseint.com
-From	contains	rulesiq.com
-From	contains	s3staffingusa.com
-From	contains	saanvi.us
-From	contains	sageitinc.net
-From	contains	sapphiresoftwaresolutions.com
-From	contains	saurabhampstek@gmail.com
-From	contains	scrum-usajobs@googlegroups.com
-From	contains	sendwithmailzzy.com
-From	contains	shaiknagul455@gmail.com
-From	contains	shirotechnologies.com
-From	contains	sibitalent.com
-From	contains	sierrasoln.com
-From	contains	siliconstartech.us
-From	contains	siriinfo.com
-From	contains	sirisoftsolutions.com
-From	contains	skillfyr.com
-From	contains	softpath.net
-From	contains	softsages.com
-From	contains	solutionit.com
-From	contains	sourabh@skillfyr.com
-From	contains	spectraforce.com
-From	contains	squadsoftwares.com
-From	contains	srilakshmitech.net
-From	contains	sritechsolutions.com
-From	contains	stellentit.com
-From	contains	stellentits.com
-From	contains	stemsolllc.com
-From	contains	steneral.com
-From	contains	stiorg.com
-From	contains	strategicstff.com
-From	contains	successpartnersllc.com
-From	contains	sunrisesys.com
-From	contains	syfter.com
-From	contains	symphonycorp.com
-From	contains	synchronycorp.com
-From	contains	synechron.com
-From	contains	systemart.com
-From	contains	systemoneservices.com
-From	contains	tailoredmanagement.com
-From	contains	talentanytime.com
-From	contains	talentemail.com
-From	contains	talentgroups.com
-From	contains	tandymgroup.com
-From	contains	tanishasystems.com
-From	contains	tansoncorp.com
-From	contains	tataelxsi.com
-From	contains	tavant.com
-From	contains	tcs.com
-From	contains	techmahindra.com
-From	contains	technocraftsol.com
-From	contains	techproviders.com
-From	contains	teja.benchsales12@gmail.com
-From	contains	tekfortune.com
-From	contains	tekleaders.com
-From	contains	tekpartners.com
-From	contains	tekprosol.com
-From	contains	tekshapers.com
-From	contains	tekwissen.com
-From	contains	tekyantra.com
-From	contains	testingxperts.com
-From	contains	thoughtcircuits.com
-From	contains	trakstar.com
-From	contains	truecodesol.com
-From	contains	uniquelogicsol.com
-From	contains	uniteditinc.com
-From	contains	usdatabase.net
-From	contains	ust.com
-From	contains	ustechsolutions.com
-From	contains	ustechsolutionsinc.com
-From	contains	valourusa.com
-From	contains	varite.com
-From	contains	vaspiretech.com
-From	contains	vdart.com
-From	contains	veritasit.com
-From	contains	vertexg.com
-From	contains	vieglobaltech.comagilesquadinc.com
-From	contains	vipensama@gmail.com
-From	contains	virtusa.com
-From	contains	viva-it.com
-From	contains	votoconsulting.com
-From	contains	vsoftconsulting.com
-From	contains	vui-inc.us
-From	contains	vuimails.com
-From	contains	whizglobal.com
-From	contains	wipro.com
-From	contains	wiseq.net 
-From	contains	workcog.com
-From	contains	xoriant.com
-From	contains	yash.com
-From	contains	zealhire.com
-From	contains	zensar.com
-From	contains	zettalogix.com
-From	contains	zilliontechnologies.com
+aavalar.com
+absoluting.com
+abyanthsolutions.com
+accurogroup.com
+aditiconsulting.com
+adventglobal.com
+agreeya.com
+aipioneer.ai
+aitacs.com
+akaasa.com
+akkodisgroup.com
+alipro.com
+allegisitllc.com
+alltechconsultinginc.com
+alourusa.com
+amaze-systems.com
+amitksunplus@gmail.com
+ampcus.com
+apetan.com
+askconsulting.com
+astekitsolutions.com
+ateeca.com
+atos.net
+avj-solutions.com
+axelon.com
+bhavyanikhil4@gmail.com
+biitservices.com
+birlasoft.com
+blackrockgrps.com
+bnassociates.net
+broadgateinc.com
+calancejobs.com
+capitalstaffingsolutions.com
+chelsoftusa.com
+cleoconsult.com
+clevanoollc.com
+clickaisolution.com
+clifyx.com
+cloudspacetek.com
+clovity.com
+codeforce.com
+coforge.com
+cognitivemindsinc.com
+cognizant.com
+comprise.com
+compunnel.com
+conchtech.com
+conov8.com
+conq-tech.com
+coolsofttech.com
+coresourceglobal.com
+corsogen.com
+cpiusainc.com
+croxconsulting.com
+ctg.com
+cyberobotix.com
+cybsearch.com
+cyient.com
+cynetsystems.com
+cystemslogic.com
+deltassi.com
+dexpertsinc.com
+diversant.com
+diverselynx.com
+diverseteam.com
+donatotech.net
+echdigitalcorp.com
+eclaro.com
+edgeglobal.net
+edgelobal.net
+edifytech.us
+eficensithub.com
+ehub.global
+encore-c.com
+encryptitservice.com
+e-solutionsinc.com
+eteaminc.com
+exarcainc.com
+fhr-solutions.com
+first-tek.com
+fusiongridtek.com
+futransolutions.com
+genome.com
+genpact.com
+globalintellectuals.com
+godigitive.com
+godigitive.com>
+gowridhars@tranzeal.com
+gp-technologies.com
+greattechglobal.com
+gretisglobal.com
+groksys.com
+gttit.com
+hanstaffing.com
+hcltech.com
+hexacorp.com
+hexaware.com
+hirekeyz.com
+hirevistaesolutions.com
+holistic-partners.com
+htcinc.com
+i2usystems.com
+i3infotek.com
+iappsdata.com
+ibusinesssolution.com
+iconma.com
+indsoft.com
+inficaretech.com
+infojiniconsulting.com
+infopeoplecorp.com>
+infosys.com
+infotreeglobal.com
+innovasolutions.com
+inspyrsolutions.com
+insuraseek.com
+intellisofttech.com
+intelliswift.com
+interglobeit.com
+intimeinfy.com
+intone.com
+irginc.net
+itdatabuild.com
+itechsolutions.com
+itmcsystems.com
+jennistech.com
+jscsolution.com
+kalyanmandapati4@gmail.com
+kaygen.com
+kksoftwareassociates.com
+kk-talents.com
+kpg99.in
+kpgtech.com
+krgtech.com
+kunchamnikhil39@gmail.com
+kyyba.com
+lancesoft.com
+laresit.comcentillion.com
+launchconsulting.om
+logicsoftusa.com
+lorventech.com
+ltimindtree.com
+ltts.com
+macrosoftinc.com
+maidentechnologies.com
+marcalbert.panzer1@gmail.com
+marcalbert.panzersolutions@gmail.com
+marlabs.com
+maxeleven.com
+meridiantechnologies.net
+metrixit.com
+mindlance.com
+miraclesoft.com
+mobiusenginecorp.com
+mphasis.com
+msrtechnologies.com
+nasscomm.ai
+nasscomm.com
+navitassols.com
+net2source.com
+nityo.co
+nityo.com
+northstarworks51@gmail.com
+novalink-solutions.com
+nstargroupinc.com
+objectwin.com
+okayainc.com
+olympiasoftwaresolutions.com
+omizstaffing.com
+oorwinmail.com
+originhubsus.com
+pacerstaffing.com
+panzersolutions
+panzersolutions.com
+pcstalent.com
+peopleintegra.com
+peoplentech.com
+populusgroup.com
+praval@oriensol.com
+prideveterans.com
+prodapt.com
+prospectinfosystem.com
+prowesssoft.com
+psrtek.com
+psstechnologyinc.com
+quadrantinc.com
+quantumworldit.com
+ramyinfotech.com
+recruiter.cloudfuturetec@gmail.com
+reqroute.com
+revature.com
+rgtalent.com
+rkoduri026@gmail.com
+rohit.galaxy0786@gmail.com
+roseint.com
+rulesiq.com
+s3staffingusa.com
+saanvi.us
+sageitinc.net
+sapphiresoftwaresolutions.com
+saurabhampstek@gmail.com
+scrum-usajobs@googlegroups.com
+sendwithmailzzy.com
+shaiknagul455@gmail.com
+shirotechnologies.com
+sibitalent.com
+sierrasoln.com
+siliconstartech.us
+siriinfo.com
+sirisoftsolutions.com
+skillfyr.com
+softpath.net
+softsages.com
+solutionit.com
+sourabh@skillfyr.com
+spectraforce.com
+squadsoftwares.com
+srilakshmitech.net
+sritechsolutions.com
+stellentit.com
+stellentits.com
+stemsolllc.com
+steneral.com
+stiorg.com
+strategicstff.com
+successpartnersllc.com
+sunrisesys.com
+syfter.com
+symphonycorp.com
+synchronycorp.com
+synechron.com
+systemart.com
+systemoneservices.com
+tailoredmanagement.com
+talentanytime.com
+talentemail.com
+talentgroups.com
+tandymgroup.com
+tanishasystems.com
+tansoncorp.com
+tataelxsi.com
+tavant.com
+tcs.com
+techmahindra.com
+technocraftsol.com
+techproviders.com
+teja.benchsales12@gmail.com
+tekfortune.com
+tekleaders.com
+tekpartners.com
+tekprosol.com
+tekshapers.com
+tekwissen.com
+tekyantra.com
+testingxperts.com
+thoughtcircuits.com
+trakstar.com
+truecodesol.com
+uniquelogicsol.com
+uniteditinc.com
+usdatabase.net
+ust.com
+ustechsolutions.com
+ustechsolutionsinc.com
+valourusa.com
+varite.com
+vaspiretech.com
+vdart.com
+veritasit.com
+vertexg.com
+vieglobaltech.comagilesquadinc.com
+vipanyglobal.com
+vipensama@gmail.com
+virtusa.com
+viva-it.com
+votoconsulting.com
+vsoftconsulting.com
+vui-inc.us
+vuimails.com
+whizglobal.com
+wipro.com
+wiseq.net
+workcog.com
+xoriant.com
+yash.com
+zealhire.com
+zensar.com
+zettalogix.com
+zilliontechnologies.com
