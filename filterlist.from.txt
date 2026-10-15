@@ -1,13 +1,3 @@
-
-webplorax.com
-IBOTIXUS.com
-hirexcorp.com
-thoughtwavesoft.com
-galaxyinfotechinc.com
-arpitgalaxy000@gmail.com
-exarcainc.com
-ravikumar131624@gmail.com
-connvertex.com
 aavalar.com
 absoluting.com
 abyanthsolutions.com
@@ -27,6 +17,7 @@ amaze-systems.com
 amitksunplus@gmail.com
 ampcus.com
 apetan.com
+arpitgalaxy000@gmail.com
 askconsulting.com
 astekitsolutions.com
 ateeca.com
@@ -55,6 +46,7 @@ cognizant.com
 comprise.com
 compunnel.com
 conchtech.com
+connvertex.com
 conov8.com
 conq-tech.com
 coolsofttech.com
@@ -90,6 +82,7 @@ fhr-solutions.com
 first-tek.com
 fusiongridtek.com
 futransolutions.com
+galaxyinfotechinc.com
 genome.com
 genpact.com
 globalintellectuals.com
@@ -107,11 +100,13 @@ hexacorp.com
 hexaware.com
 hirekeyz.com
 hirevistaesolutions.com
+hirexcorp.com
 holistic-partners.com
 htcinc.com
 i2usystems.com
 i3infotek.com
 iappsdata.com
+IBOTIXUS.com
 ibusinesssolution.com
 iconma.com
 indsoft.com
@@ -195,6 +190,7 @@ psstechnologyinc.com
 quadrantinc.com
 quantumworldit.com
 ramyinfotech.com
+ravikumar131624@gmail.com
 recruiter.cloudfuturetec@gmail.com
 reqroute.com
 revature.com
@@ -263,6 +259,7 @@ tekwissen.com
 tekyantra.com
 testingxperts.com
 thoughtcircuits.com
+thoughtwavesoft.com
 trakstar.com
 truecodesol.com
 uniquelogicsol.com
@@ -286,6 +283,7 @@ votoconsulting.com
 vsoftconsulting.com
 vui-inc.us
 vuimails.com
+webplorax.com
 whizglobal.com
 wipro.com
 wiseq.net
