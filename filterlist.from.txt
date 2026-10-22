@@ -1,10 +1,3 @@
-dynamic-enterprise.net
-intersourcesinc.com
-bcomputing.com
-exarcainc.com
-innovativeinfotech.com
-vkoresolutions.com
-vyzeinc.com
 aavalar.com
 absoluting.com
 abyanthsolutions.com
@@ -31,6 +24,7 @@ ateeca.com
 atos.net
 avj-solutions.com
 axelon.com
+bcomputing.com
 bhavyanikhil4@gmail.com
 biitservices.com
 birlasoft.com
@@ -73,6 +67,7 @@ diversant.com
 diverselynx.com
 diverseteam.com
 donatotech.net
+dynamic-enterprise.net
 echdigitalcorp.com
 eclaro.com
 edgeglobal.net
@@ -123,11 +118,13 @@ infopeoplecorp.com>
 infosys.com
 infotreeglobal.com
 innovasolutions.com
+innovativeinfotech.com
 inspyrsolutions.com
 insuraseek.com
 intellisofttech.com
 intelliswift.com
 interglobeit.com
+intersourcesinc.com
 intimeinfy.com
 intone.com
 irginc.net
@@ -286,10 +283,12 @@ vipanyglobal.com
 vipensama@gmail.com
 virtusa.com
 viva-it.com
+vkoresolutions.com
 votoconsulting.com
 vsoftconsulting.com
 vui-inc.us
 vuimails.com
+vyzeinc.com
 webplorax.com
 whizglobal.com
 wipro.com
