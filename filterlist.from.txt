@@ -1,7 +1,3 @@
-kaalidigital.com
-mangoanalytics.ai 
-pyramidinc.com
-snnsllc.com
 aavalar.com
 absoluting.com
 abyanthsolutions.com
@@ -135,8 +131,10 @@ irginc.net
 itdatabuild.com
 itechsolutions.com
 itmcsystems.com
+itmmi.com
 jennistech.com
 jscsolution.com
+kaalidigital.com
 kalyanmandapati4@gmail.com
 kaygen.com
 kksoftwareassociates.com
@@ -155,6 +153,7 @@ ltimindtree.com
 ltts.com
 macrosoftinc.com
 maidentechnologies.com
+mangoanalytics.ai 
 marcalbert.panzer1@gmail.com
 marcalbert.panzersolutions@gmail.com
 marlabs.com
@@ -195,6 +194,7 @@ prospectinfosystem.com
 prowesssoft.com
 psrtek.com
 psstechnologyinc.com
+pyramidinc.com
 quadrantinc.com
 quantumworldit.com
 ramyinfotech.com
@@ -222,6 +222,7 @@ siliconstartech.us
 siriinfo.com
 sirisoftsolutions.com
 skillfyr.com
+snnsllc.com
 softpath.net
 softsages.com
 solutionit.com
