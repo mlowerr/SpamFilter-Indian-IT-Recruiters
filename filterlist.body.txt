@@ -1,1 +1,2 @@
 Body	contains	Direct Client
+Body	contains	talentemail.com
